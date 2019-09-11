@@ -5,6 +5,6 @@ The first node is called receiver. This node not only subscibes the data from qi
 The second node is called listener. Rosrun this python file, you can see the data subscribed from result topic.  
   
 There are three python files in the folder exc2. It represents three levels of fulfilling the task.  
-Version1: Plot with a static graph with OOP method.
-Version2: Plot with a dynamic graph with interactive method of matplotlib
-Version3: Animation and use Tkinter to design buttons with GUI. (To be continued)
+Version1: Plot with a static graph with OOP method.  
+Version2: Plot with a dynamic graph with interactive method of matplotlib  
+Version3: Animation and use Tkinter to design buttons with GUI. (To be continued)  
