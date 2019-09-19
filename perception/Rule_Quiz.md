@@ -8,7 +8,7 @@ Question 3: Is it okay to adjust the angle of the winglets after technical inspe
 Answer: Yes.  
   
 Question 4: How many lateral g's are simulated during the tilt test?  
-Answer: 2  
+Answer: None of the above(Should be 1/2)  
   
 Question 5: How should the DV log data during the race?  
 Answer: Teams must install the standardized data logger piece of hardware provided by the officials on their vehicle.  
